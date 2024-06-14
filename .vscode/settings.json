@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "ui.h": "c",
+    "lv_conf_internal.h": "c"
+  }
+}
